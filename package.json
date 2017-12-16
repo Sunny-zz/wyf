@@ -1,0 +1,23 @@
+{
+  "name": "wyf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-zz/wyf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-zz/wyf/issues"
+  },
+  "homepage": "https://github.com/Sunny-zz/wyf#readme",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
